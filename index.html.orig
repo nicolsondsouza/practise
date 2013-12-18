@@ -1,0 +1,10 @@
+<head> </head>
+<body> 
+hello world
+how are you
+<<<<<<< HEAD
+=======
+tell the next line
+i m good
+>>>>>>> c03052dad0058493f52cf27da10921b80274265b
+</body>
